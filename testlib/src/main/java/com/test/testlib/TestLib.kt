@@ -1,4 +1,4 @@
-package com.test.test_lib
+package com.test.testlib
 
 class TestLib {
 

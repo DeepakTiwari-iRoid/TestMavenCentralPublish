@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "TestSDK"
 include(":app")
-include(":test_lib")
+include(":testlib")
